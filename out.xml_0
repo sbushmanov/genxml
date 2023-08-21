@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Спартак</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>Щукин Инк</itemName>
+            <purchasedOn>2001-09-29</purchasedOn>
+            <amount>651</amount>
+        </item>
+        <item>
+            <itemName>Щукин Инк</itemName>
+            <purchasedOn>2001-09-29</purchasedOn>
+            <amount>651</amount>
+        </item>
+        <item>
+            <itemName>Щукин Инк</itemName>
+            <purchasedOn>2001-09-29</purchasedOn>
+            <amount>651</amount>
+        </item>
+    </items>
+</expenseReport>

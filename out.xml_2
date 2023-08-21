@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Ростислав</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>Наумов Инк</itemName>
+            <purchasedOn>2003-12-06</purchasedOn>
+            <amount>2213</amount>
+        </item>
+        <item>
+            <itemName>Наумов Инк</itemName>
+            <purchasedOn>2003-12-06</purchasedOn>
+            <amount>2213</amount>
+        </item>
+        <item>
+            <itemName>Наумов Инк</itemName>
+            <purchasedOn>2003-12-06</purchasedOn>
+            <amount>2213</amount>
+        </item>
+    </items>
+</expenseReport>

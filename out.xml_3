@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Софон</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>АО «Абрамов, Кабанов и Соловьев»</itemName>
+            <purchasedOn>1989-03-10</purchasedOn>
+            <amount>2221</amount>
+        </item>
+        <item>
+            <itemName>АО «Абрамов, Кабанов и Соловьев»</itemName>
+            <purchasedOn>1989-03-10</purchasedOn>
+            <amount>2221</amount>
+        </item>
+        <item>
+            <itemName>АО «Абрамов, Кабанов и Соловьев»</itemName>
+            <purchasedOn>1989-03-10</purchasedOn>
+            <amount>2221</amount>
+        </item>
+    </items>
+</expenseReport>

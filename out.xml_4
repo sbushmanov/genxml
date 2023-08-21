@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Иосиф</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>ООО «Воронова-Максимова»</itemName>
+            <purchasedOn>2002-07-07</purchasedOn>
+            <amount>177</amount>
+        </item>
+        <item>
+            <itemName>ООО «Воронова-Максимова»</itemName>
+            <purchasedOn>2002-07-07</purchasedOn>
+            <amount>177</amount>
+        </item>
+        <item>
+            <itemName>ООО «Воронова-Максимова»</itemName>
+            <purchasedOn>2002-07-07</purchasedOn>
+            <amount>177</amount>
+        </item>
+    </items>
+</expenseReport>

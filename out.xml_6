@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Никодим</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>Завод имени Дегтярева</itemName>
+            <purchasedOn>2015-02-08</purchasedOn>
+            <amount>2126</amount>
+        </item>
+        <item>
+            <itemName>Завод имени Дегтярева</itemName>
+            <purchasedOn>2015-02-08</purchasedOn>
+            <amount>2126</amount>
+        </item>
+        <item>
+            <itemName>Завод имени Дегтярева</itemName>
+            <purchasedOn>2015-02-08</purchasedOn>
+            <amount>2126</amount>
+        </item>
+    </items>
+</expenseReport>

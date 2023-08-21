@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Святополк</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>Астон</itemName>
+            <purchasedOn>1991-04-15</purchasedOn>
+            <amount>8428</amount>
+        </item>
+        <item>
+            <itemName>Астон</itemName>
+            <purchasedOn>1991-04-15</purchasedOn>
+            <amount>8428</amount>
+        </item>
+        <item>
+            <itemName>Астон</itemName>
+            <purchasedOn>1991-04-15</purchasedOn>
+            <amount>8428</amount>
+        </item>
+    </items>
+</expenseReport>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Игорь</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>ЗАО «Матвеев, Афанасьева и Костин»</itemName>
+            <purchasedOn>2001-09-29</purchasedOn>
+            <amount>9928</amount>
+        </item>
+        <item>
+            <itemName>ЗАО «Матвеев, Афанасьева и Костин»</itemName>
+            <purchasedOn>2001-09-29</purchasedOn>
+            <amount>9928</amount>
+        </item>
+        <item>
+            <itemName>ЗАО «Матвеев, Афанасьева и Костин»</itemName>
+            <purchasedOn>2001-09-29</purchasedOn>
+            <amount>9928</amount>
+        </item>
+    </items>
+</expenseReport>

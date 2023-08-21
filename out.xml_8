@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Моисей</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>ЗАО «Давыдова Новиков»</itemName>
+            <purchasedOn>1972-04-21</purchasedOn>
+            <amount>4829</amount>
+        </item>
+        <item>
+            <itemName>ЗАО «Давыдова Новиков»</itemName>
+            <purchasedOn>1972-04-21</purchasedOn>
+            <amount>4829</amount>
+        </item>
+        <item>
+            <itemName>ЗАО «Давыдова Новиков»</itemName>
+            <purchasedOn>1972-04-21</purchasedOn>
+            <amount>4829</amount>
+        </item>
+    </items>
+</expenseReport>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Карл</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>ЛГ Электроникс Рус (LG)</itemName>
+            <purchasedOn>2012-09-02</purchasedOn>
+            <amount>3750</amount>
+        </item>
+        <item>
+            <itemName>ЛГ Электроникс Рус (LG)</itemName>
+            <purchasedOn>2012-09-02</purchasedOn>
+            <amount>3750</amount>
+        </item>
+        <item>
+            <itemName>ЛГ Электроникс Рус (LG)</itemName>
+            <purchasedOn>2012-09-02</purchasedOn>
+            <amount>3750</amount>
+        </item>
+    </items>
+</expenseReport>
